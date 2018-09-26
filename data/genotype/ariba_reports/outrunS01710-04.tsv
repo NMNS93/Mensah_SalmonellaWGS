@@ -1,0 +1,6 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aac_3__IVa.1_X01385	aac_3__IVa.1_X01385	1	0	531	642	aac_3__IVa	786	786	99.87	aac_3__IVa.l6.c4.ctg.1	1852	43.2	0	.	p	.	0	G245fs	FSHIFT	733	733	G	1292	1292	G	54	G,A	53,1	.	Original name: aac(3)-IVa_1_X01385
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	27	722	aadA-_1	792	792	100.0	aadA-_1.l15.c17.ctg.1	2031	44.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA2_2_JQ364967
+aph_4__Ia.1_V01499	aph_4__Ia.1_V01499	1	0	27	714	aph_4__Ia	1026	1026	100.0	aph_4__Ia.l15.c4.ctg.1	2121	41.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aph(4)-Ia_1_V01499
+blaTEM_1A.4_HM749966	blaTEM_1A.4_HM749966	1	0	27	500	blaTEM_-	861	861	100.0	blaTEM_-.l15.c4.ctg.1	2158	29.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaTEM-1A_4_HM749966
+dfrA12.1_AB571791	dfrA12.1_AB571791	1	0	27	618	dfrA12	498	498	100.0	dfrA12.l15.c30.ctg.1	1691	45.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: dfrA12_1_AB571791

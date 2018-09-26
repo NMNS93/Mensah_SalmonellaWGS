@@ -1,0 +1,12 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA2.1_X68227	aadA2.1_X68227	1	0	27	948	aadA-_1	780	780	100.0	aadA-_1.l15.c4.ctg.1	1996	59.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA2_1_X68227
+blaCARB_2.1_M69058	blaCARB_2.1_M69058	1	0	27	1128	blaCARB_-	915	915	100.0	blaCARB_-.l15.c4.ctg.1	2387	59.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaCARB-2_1_M69058
+dfrA14.1_DQ388123	dfrA14.1_DQ388123	1	0	539	482	dfrA14	483	483	99.79	dfrA14.l15.c4.ctg.1	1729	34.6	0	.	p	.	0	S25P	NONSYN	73	75	TCC	662	664	CCC	65;65;65	C;C,T;C,A	65;64,1;64,1	.	Original name: dfrA14_1_DQ388123
+floR.2_AF118107	floR.2_AF118107	1	0	27	1144	floR	1215	1215	100.0	floR.l6.c4.ctg.1	2618	54.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: floR_2_AF118107
+strA.4_AF321551	strA.4_AF321551	1	0	17	728	strA	804	804	100.0	strA.l6.c30.ctg.1	2350	37.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_4_AF321551
+strB.1_M96392	strB.1_M96392	1	0	27	690	strB	837	837	100.0	strB.l6.c4.ctg.1	2229	38.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+sul1.2_CP002151	sul1.2_CP002151	1	0	37	1630	sul-	927	616	100.0	sul-.l15.c30.ctg.1	980	131.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul1.2_CP002151	sul1.2_CP002151	1	0	37	1630	sul-	927	123	100.0	sul-.l15.c30.ctg.2	522	28.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul1.2_CP002151	sul1.2_CP002151	1	0	37	1630	sul-	927	435	100.0	sul-.l15.c30.ctg.3	1072	39.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul2.2_GQ421466	sul2.2_GQ421466	1	0	27	752	sul2	816	816	100.0	sul2.l15.c4.ctg.1	2097	44.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_2_GQ421466
+tet_G_.5_AF071555	tet_G_.5_AF071555	1	0	27	1044	tet_G_	1128	1128	100.0	tet_G_.l15.c17.ctg.1	2514	51.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(G)_5_AF071555

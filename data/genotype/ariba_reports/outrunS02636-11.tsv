@@ -1,0 +1,16 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA1.3_JQ414041	aadA1.3_JQ414041	1	0	27	2550	aadA-	792	792	100.0	aadA-.l15.c4.ctg.2	2015	75.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA1_3_JQ414041
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1328	aadA-_1	792	792	100.0	aadA-_1.l15.c30.ctg.1	2119	76.5	0	HET	.	.	.	G357A	.	357	357	G	1026	1026	G	153	G,A	121,32	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1328	aadA-_1	792	792	100.0	aadA-_1.l15.c30.ctg.1	2119	76.5	0	HET	.	.	.	A393G	.	393	393	A	1062	1062	A	155	A,G	123,32	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1328	aadA-_1	792	792	100.0	aadA-_1.l15.c30.ctg.1	2119	76.5	0	HET	.	.	.	C400T,A	.	400	400	C	1069	1069	C	157	C,T,A	124,32,1	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1328	aadA-_1	792	792	100.0	aadA-_1.l15.c30.ctg.1	2119	76.5	0	HET	.	.	.	G500A	.	500	500	G	1169	1169	G	141	G,A	126,15	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1328	aadA-_1	792	792	100.0	aadA-_1.l15.c30.ctg.1	2119	76.5	0	HET	.	.	.	T405G	.	405	405	T	1074	1074	T	155	T,G	123,32	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1328	aadA-_1	792	792	100.0	aadA-_1.l15.c30.ctg.1	2119	76.5	0	HET	.	.	.	G501T	.	501	501	G	1170	1170	G	138	G,T	123,15	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1328	aadA-_1	792	792	100.0	aadA-_1.l15.c30.ctg.1	2119	76.5	0	HET	.	.	.	T377C	.	377	377	T	1046	1046	T	157	T,C	125,32	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1328	aadA-_1	792	792	100.0	aadA-_1.l15.c30.ctg.1	2119	76.5	0	HET	.	.	.	C540T	.	540	540	C	1209	1209	C	131	C,T	116,15	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1328	aadA-_1	792	792	100.0	aadA-_1.l15.c30.ctg.1	2119	76.5	0	HET	.	.	.	G510A	.	510	510	G	1179	1179	G	139	G,A	124,15	.	Original name: aadA2_2_JQ364967
+blaTEM_1B.1_JF910132	blaTEM_1B.1_JF910132	1	0	27	1126	blaTEM_-	861	861	100.0	blaTEM_-.l15.c4.ctg.1	2087	67.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaTEM-1B_1_JF910132
+cmlA1.1_M64556	cmlA1.1_M64556	1	0	539	1590	cml-	1260	1260	99.92	cml-.l15.c4.ctg.1	2319	85.2	0	.	p	.	0	G412E	NONSYN	1234	1236	GGA	1775	1777	GAA	113;111;111	G;A;A	113;111;111	.	Original name: cmlA1_1_M64556
+dfrA12.1_AB571791	dfrA12.1_AB571791	1	0	27	910	dfrA12	498	498	100.0	dfrA12.l15.c4.ctg.1	1685	67.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: dfrA12_1_AB571791
+mef_B_.1_FJ196385	mef_B_.1_FJ196385	1	0	16	438	mef_B_	1230	260	100.0	mef_B_.l15.c4.ctg.1	1418	38.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: mef(B)_1_FJ196385
+sul3.2_AJ459418	sul3.2_AJ459418	1	0	27	1280	sul3	792	792	100.0	sul3.l15.c30.ctg.1	1933	82.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul3_2_AJ459418

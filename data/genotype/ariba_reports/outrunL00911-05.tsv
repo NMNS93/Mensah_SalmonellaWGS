@@ -1,0 +1,2 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+tet_C_.5_NC_003213	tet_C_.5_NC_003213	1	0	539	2622	tet_C_	1191	1191	99.92	tet_C_.l15.c17.ctg.1	2319	140.6	0	.	p	.	0	V355F	NONSYN	1063	1065	GTC	1620	1622	TTC	148;149;144	T;T;C	148;149;144	.	Original name: tet(C)_5_NC_003213

@@ -1,0 +1,13 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA2.1_X68227	aadA2.1_X68227	1	0	16	14	aadA-_1	780	318	100.0	aadA-_1.l15.c30.ctg.1	318	2.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA2_1_X68227
+blaCARB_2.1_M69058	blaCARB_2.1_M69058	1	0	19	22	blaCARB_-	915	889	100.0	blaCARB_-.l6.c30.ctg.1	922	1.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaCARB-2_1_M69058
+blaTEM_1B.1_JF910132	blaTEM_1B.1_JF910132	1	0	27	1802	blaTEM_-	861	861	100.0	blaTEM_-.l15.c4.ctg.1	2116	106.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaTEM-1B_1_JF910132
+floR.2_AF118107	floR.2_AF118107	1	0	0	30	floR	1215	314	100.0	floR.l15.c30.ctg.1	356	2.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: floR_2_AF118107
+floR.2_AF118107	floR.2_AF118107	1	0	0	30	floR	1215	705	100.0	floR.l15.c30.ctg.2	706	2.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: floR_2_AF118107
+strA.4_AF321551	strA.4_AF321551	1	0	27	1670	strA	804	804	100.0	strA.l15.c4.ctg.1	2177	95.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_4_AF321551
+strB.1_M96392	strB.1_M96392	1	0	27	1620	strB	837	837	100.0	strB.l15.c4.ctg.1	2037	98.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+sul1.2_CP002151	sul1.2_CP002151	1	0	0	26	sul-	927	616	100.0	sul-.l15.c4.ctg.1	669	3.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul1.2_CP002151	sul1.2_CP002151	1	0	0	26	sul-	927	166	100.0	sul-.l15.c4.ctg.2	321	1.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul2.3_HQ840942	sul2.3_HQ840942	1	0	27	1512	sul2	816	816	100.0	sul2.l6.c17.ctg.1	1813	102.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_3_HQ840942
+tet_B_.4_AF326777	tet_B_.4_AF326777	1	0	27	2584	tet_B_	1206	1206	100.0	tet_B_.l15.c4.ctg.1	2437	132.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(B)_4_AF326777
+tet_G_.4_AF133140	tet_G_.4_AF133140	1	0	528	30	tet_G_	1176	298	99.66	tet_G_.l15.c4.ctg.1	327	2.9	0	.	p	.	0	P92R	NONSYN	274	276	CCG	303	305	CGG	3;3;3	C;G,C;G	3;1,2;3	.	Original name: tet(G)_4_AF133140

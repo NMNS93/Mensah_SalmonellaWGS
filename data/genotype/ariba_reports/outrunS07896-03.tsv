@@ -1,0 +1,8 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA2.1_X68227	aadA2.1_X68227	1	0	27	1210	aadA-_1	780	780	100.0	aadA-_1.l15.c4.ctg.1	2060	73.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA2_1_X68227
+blaCARB_2.1_M69058	blaCARB_2.1_M69058	1	0	27	1492	blaCARB_-	915	915	100.0	blaCARB_-.l15.c4.ctg.1	2107	88.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaCARB-2_1_M69058
+floR.2_AF118107	floR.2_AF118107	1	0	539	1512	floR	1215	1215	99.92	floR.l15.c4.ctg.1	2551	74.0	0	.	p	.	0	M147I	NONSYN	439	441	ATG	1144	1146	ATT	99;101;101	A;T;T,A	99;101;100,1	.	Original name: floR_2_AF118107
+sul1.2_CP002151	sul1.2_CP002151	1	0	37	2092	sul-	927	616	100.0	sul-.l15.c30.ctg.1	1088	158.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul1.2_CP002151	sul1.2_CP002151	1	0	37	2092	sul-	927	435	100.0	sul-.l15.c30.ctg.2	741	70.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul1.2_CP002151	sul1.2_CP002151	1	0	37	2092	sul-	927	113	100.0	sul-.l15.c30.ctg.3	251	28.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+tet_G_.5_AF071555	tet_G_.5_AF071555	1	0	27	1434	tet_G_	1128	1128	100.0	tet_G_.l15.c4.ctg.1	2498	71.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(G)_5_AF071555

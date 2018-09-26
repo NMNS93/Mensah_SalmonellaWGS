@@ -1,0 +1,23 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA1.3_JQ414041	aadA1.3_JQ414041	1	0	27	2144	aadA-	792	792	100.0	aadA-.l6.c17.ctg.1	3815	66.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA1_3_JQ414041
+aadA13.1_AY713504	aadA13.1_AY713504	1	0	528	90	aadA13	798	198	93.94	aadA13.l6.c4.ctg.4	499	4.7	0	.	p	.	0	M97I	NONSYN	289	291	ATG	309	311	ATT	13;12;12	A;T;T,C	11;11;6,6	.	Original name: aadA13_1_AY713504
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	792	100.0	aadA-_1.l15.c4.ctg.1	2158	59.3	0	HET	.	.	.	C400T	.	400	400	C	1073	1073	C	115	C,T	97,18	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	792	100.0	aadA-_1.l15.c4.ctg.1	2158	59.3	0	HET	.	.	.	T377C	.	377	377	T	1050	1050	T	112	T,C	95,17	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	792	100.0	aadA-_1.l15.c4.ctg.1	2158	59.3	0	HET	.	.	.	T405G	.	405	405	T	1078	1078	T	119	T,G	101,18	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	792	100.0	aadA-_1.l15.c4.ctg.1	2158	59.3	0	HET	.	.	.	A393G	.	393	393	A	1066	1066	A	118	A,G	100,18	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	197	90.86	aadA-_1.l15.c4.ctg.2	443	4.0	0	.	p	.	0	I213M	NONSYN	637	639	ATA	57	59	ATG	ND;ND;ND	ND;ND;ND	ND;ND;ND	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	197	90.86	aadA-_1.l15.c4.ctg.2	443	4.0	0	.	p	.	0	K214E	NONSYN	640	642	AAA	60	62	GAG	ND;ND;ND	ND;ND;ND	ND;ND;ND	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	197	90.86	aadA-_1.l15.c4.ctg.2	443	4.0	0	.	p	.	0	K228R	NONSYN	682	684	AAG	102	104	AGA	ND;ND;ND	ND;ND;ND	ND;ND;ND	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	197	90.86	aadA-_1.l15.c4.ctg.2	443	4.0	0	.	p	.	0	K235E	NONSYN	703	705	AAA	123	125	GAA	ND;ND;ND	ND;ND;ND	ND;ND;ND	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	197	90.86	aadA-_1.l15.c4.ctg.2	443	4.0	0	.	p	.	0	H238R	NONSYN	712	714	CAC	132	134	CGC	ND;ND;ND	ND;ND;ND	ND;ND;ND	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	197	90.86	aadA-_1.l15.c4.ctg.2	443	4.0	0	.	p	.	0	H245Q	NONSYN	733	735	CAC	153	155	CAG	ND;ND;ND	ND;ND;ND	ND;ND;ND	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	197	90.86	aadA-_1.l15.c4.ctg.2	443	4.0	0	.	p	.	0	I250V	NONSYN	748	750	ATT	168	170	GTT	9;9;9	G;T;T	9;9;9	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	197	90.86	aadA-_1.l15.c4.ctg.2	443	4.0	0	.	p	.	0	R251H	NONSYN	751	753	CGC	171	173	CAC	9;9;9	C;A;C	9;9;9	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	197	90.86	aadA-_1.l15.c4.ctg.2	443	4.0	0	.	p	.	0	F252Y	NONSYN	754	756	TTT	174	176	TAC	9;9;9	T;A;C	9;9;9	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	197	90.86	aadA-_1.l15.c4.ctg.2	443	4.0	0	.	p	.	0	I258T	NONSYN	772	774	ATC	192	194	ACC	9;9;9	A;C;C	9;9;9	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	269	95.54	aadA-_1.l15.c4.ctg.3	272	4.1	0	.	p	.	0	M126T	NONSYN	376	378	ATG	148	150	ACG	9;9;9	A;C;G	9;9;9	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	655	1066	aadA-_1	792	269	95.54	aadA-_1.l15.c4.ctg.3	272	4.1	0	.	p	.	0	F153L	NONSYN	457	459	TTC	229	231	CTC	ND;ND;ND	ND;ND;ND	ND;ND;ND	.	Original name: aadA2_2_JQ364967
+cmlA1.1_M64556	cmlA1.1_M64556	1	0	539	1324	cml-	1260	1260	99.92	cml-.l6.c4.ctg.1	2432	67.8	0	.	p	.	0	G412E	NONSYN	1234	1236	GGA	1836	1838	GAA	101;100;99	G;A;A	101;100;99	.	Original name: cmlA1_1_M64556
+dfrA12.1_AB571791	dfrA12.1_AB571791	1	0	27	800	dfrA12	498	498	100.0	dfrA12.l15.c4.ctg.1	1911	52.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: dfrA12_1_AB571791
+mef_B_.1_FJ196385	mef_B_.1_FJ196385	1	0	16	382	mef_B_	1230	260	100.0	mef_B_.l15.c4.ctg.1	1426	33.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: mef(B)_1_FJ196385
+sul3.2_AJ459418	sul3.2_AJ459418	1	0	27	1110	sul3	792	792	100.0	sul3.l15.c30.ctg.1	2177	63.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul3_2_AJ459418

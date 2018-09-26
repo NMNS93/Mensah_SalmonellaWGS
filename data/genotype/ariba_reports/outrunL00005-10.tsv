@@ -1,0 +1,14 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA1.3_JQ414041	aadA1.3_JQ414041	1	0	27	1268	aadA-	792	792	100.0	aadA-.l15.c4.ctg.1	1866	37.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA1_3_JQ414041
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	527	676	aadA-_1	792	792	100.0	aadA-_1.l15.c4.ctg.1	1945	42.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	527	676	aadA-_1	792	288	94.79	aadA-_1.l15.c4.ctg.2	288	2.2	0	.	p	.	0	M126T	NONSYN	376	378	ATG	71	73	ACG	2;2;2	A;C;G	2;2;2	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	527	676	aadA-_1	792	288	94.79	aadA-_1.l15.c4.ctg.2	288	2.2	0	.	p	.	0	R167N	NONSYN	499	501	AGG	194	196	AAT	3;3;3	A;A;T	3;3;3	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	527	676	aadA-_1	792	288	94.79	aadA-_1.l15.c4.ctg.2	288	2.2	0	.	p	.	0	K171T	NONSYN	511	513	AAG	206	208	ACG	3;3;3	A;C;G	3;3;3	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	527	676	aadA-_1	792	288	94.79	aadA-_1.l15.c4.ctg.2	288	2.2	0	.	p	.	0	Q176P	NONSYN	526	528	CAG	221	223	CCG	3;3;3	C;C;G	3;3;3	.	Original name: aadA2_2_JQ364967
+blaTEM_1B.1_JF910132	blaTEM_1B.1_JF910132	1	0	27	526	blaTEM_-	861	861	100.0	blaTEM_-.l15.c30.ctg.1	1936	33.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaTEM-1B_1_JF910132
+cmlA1.1_M64556	cmlA1.1_M64556	1	0	539	754	cml-	1260	1260	99.92	cml-.l15.c4.ctg.1	2460	38.2	0	.	p	.	0	G412E	NONSYN	1234	1236	GGA	1778	1780	GAA	53;53;53	G,A;A;A	52,1;53;53	.	Original name: cmlA1_1_M64556
+dfrA12.1_AB571791	dfrA12.1_AB571791	1	0	27	472	dfrA12	498	498	100.0	dfrA12.l15.c4.ctg.1	1679	35.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: dfrA12_1_AB571791
+mef_B_.1_FJ196385	mef_B_.1_FJ196385	1	0	16	224	mef_B_	1230	247	100.0	mef_B_.l15.c17.ctg.1	1175	23.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: mef(B)_1_FJ196385
+strA.5_AF321550	strA.5_AF321550	1	0	16	12	strA	804	273	100.0	strA.l15.c4.ctg.1	273	1.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_5_AF321550
+sul2.2_GQ421466	sul2.2_GQ421466	1	0	16	12	sul2	816	211	100.0	sul2.l15.c4.ctg.1	211	2.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_2_GQ421466
+sul3.2_AJ459418	sul3.2_AJ459418	1	0	27	728	sul3	792	792	100.0	sul3.l15.c30.ctg.1	2063	44.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul3_2_AJ459418

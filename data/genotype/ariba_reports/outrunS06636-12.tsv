@@ -1,0 +1,13 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aac_3__IVa.1_X01385	aac_3__IVa.1_X01385	1	0	531	334	aac_3__IVa	786	786	99.87	aac_3__IVa.l15.c4.ctg.1	1858	22.5	0	.	p	.	0	G245fs	FSHIFT	733	733	G	1262	1262	G	30	G	30	.	Original name: aac(3)-IVa_1_X01385
+aph_4__Ia.1_V01499	aph_4__Ia.1_V01499	1	0	1	410	aph_4__Ia	1026	816	100.0	aph_4__Ia.l15.c4.ctg.1	1790	23.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aph(4)-Ia_1_V01499
+aph_4__Ia.1_V01499	aph_4__Ia.1_V01499	1	0	1	410	aph_4__Ia	1026	193	100.0	aph_4__Ia.l15.c4.ctg.4	281	15.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aph(4)-Ia_1_V01499
+blaTEM_124.1_AY327540	blaTEM_124.1_AY327540	1	0	545	668	blaTEM_-	858	461	99.57	blaTEM_-.l15.c4.ctg.1	1569	27.5	0	.	p	.	0	K4Q	NONSYN	10	12	AAA	520	522	CAA	57;57;57	C;A;A	57;57;57	.	Original name: blaTEM-124_1_AY327540
+blaTEM_124.1_AY327540	blaTEM_124.1_AY327540	1	0	545	668	blaTEM_-	858	461	99.57	blaTEM_-.l15.c4.ctg.1	1569	27.5	0	.	p	.	0	K102E	NONSYN	304	306	AAG	814	816	GAG	54;54;54	G;A;G	54;54;54	.	Original name: blaTEM-124_1_AY327540
+blaTEM_124.1_AY327540	blaTEM_124.1_AY327540	1	0	545	668	blaTEM_-	858	406	98.53	blaTEM_-.l15.c4.ctg.2	1085	29.5	0	.	p	.	0	T180M	NONSYN	538	540	ACG	621	623	ATG	36;37;38	A;T;G	36;37;38	.	Original name: blaTEM-124_1_AY327540
+blaTEM_124.1_AY327540	blaTEM_124.1_AY327540	1	0	545	668	blaTEM_-	858	406	98.53	blaTEM_-.l15.c4.ctg.2	1085	29.5	0	.	p	.	0	A245_L246insS	INS	733	733	G	816	816	G	50	G	50	.	Original name: blaTEM-124_1_AY327540
+blaTEM_124.1_AY327540	blaTEM_124.1_AY327540	1	0	545	668	blaTEM_-	858	406	98.53	blaTEM_-.l15.c4.ctg.2	1085	29.5	0	.	p	.	0	A270R	NONSYN	808	810	GCA	894	896	CGA	53;53;51	C;GAAA,GAA;A	53;50,1;51	.	Original name: blaTEM-124_1_AY327540
+strA.4_AF321551	strA.4_AF321551	1	0	27	7108	strA	804	804	100.0	strA.l15.c4.ctg.1	2053	431.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_4_AF321551
+strB.1_M96392	strB.1_M96392	1	0	27	6720	strB	837	837	100.0	strB.l15.c17.ctg.1	1985	421.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+sul2.2_GQ421466	sul2.2_GQ421466	1	0	27	7306	sul2	816	816	100.0	sul2.l6.c30.ctg.1	2101	433.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_2_GQ421466
+tet_A_.4_AJ517790	tet_A_.4_AJ517790	1	0	27	8790	tet_A_	1200	1200	100.0	tet_A_.l6.c4.ctg.1	2520	435.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(A)_4_AJ517790

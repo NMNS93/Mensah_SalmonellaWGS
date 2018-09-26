@@ -1,0 +1,6 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+blaTEM_1B.1_JF910132	blaTEM_1B.1_JF910132	1	0	27	776	blaTEM_-	861	861	100.0	blaTEM_-.l15.c4.ctg.1	2005	48.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaTEM-1B_1_JF910132
+strA.4_AF321551	strA.4_AF321551	1	0	27	4110	strA	804	804	100.0	strA.l15.c4.ctg.1	2087	245.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_4_AF321551
+strB.1_M96392	strB.1_M96392	1	0	27	3894	strB	837	837	100.0	strB.l6.c4.ctg.1	2209	219.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+sul2.2_GQ421466	sul2.2_GQ421466	1	0	27	4308	sul2	816	816	100.0	sul2.l15.c4.ctg.1	2113	254.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_2_GQ421466
+tet_A_.4_AJ517790	tet_A_.4_AJ517790	1	0	27	5160	tet_A_	1200	1200	100.0	tet_A_.l6.c4.ctg.1	2361	272.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(A)_4_AJ517790

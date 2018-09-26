@@ -1,0 +1,12 @@
+amr,fname,class
+NAL,nalidixic acid,quinolone
+CIP,ciprofloxacin,quinolone
+STR,streptomycin,aminoglycoside
+AMP,ampicillin,betalactam
+CHL,chloramphenicol,phenicol
+SXT,sulfamethoxazole-trimethoprim,sulfonamide
+SMX,sulfamethoxazole,sulfonamide
+TET,tetracycline,tetracycline
+SUL,sulfisoxazole,sulfonamide
+GEN,gentamicin,aminoglycoside
+TRI,trimethoprim,folate-synth-inhibitor

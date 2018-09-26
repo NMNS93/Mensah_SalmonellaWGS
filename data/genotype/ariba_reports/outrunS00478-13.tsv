@@ -1,0 +1,12 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aac_3__IVa.1_X01385	aac_3__IVa.1_X01385	1	0	531	1038	aac_3__IVa	786	786	99.87	aac_3__IVa.l15.c17.ctg.1	1979	65.3	0	.	p	.	0	G245fs	FSHIFT	733	733	G	1240	1240	G	105	G	105	.	Original name: aac(3)-IVa_1_X01385
+aph_4__Ia.1_V01499	aph_4__Ia.1_V01499	1	0	27	1164	aph_4__Ia	1026	1026	100.0	aph_4__Ia.l15.c4.ctg.1	2127	68.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aph(4)-Ia_1_V01499
+blaTEM_1B.1_JF910132	blaTEM_1B.1_JF910132	1	0	27	1246	blaTEM_-	861	861	100.0	blaTEM_-.l15.c30.ctg.1	2006	77.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaTEM-1B_1_JF910132
+strA.1_M96392	strA.1_M96392	1	0	175	1996	strA	804	804	100.0	strA.l15.c30.ctg.1	1185	157.0	0	HET	.	.	.	G204C	.	204	204	G	235	235	G	187	G,C	104,83	.	Original name: strA_1_M96392
+strA.1_M96392	strA.1_M96392	1	0	175	1996	strA	804	90	100.0	strA.l15.c30.ctg.2	487	38.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_1_M96392
+strA.1_M96392	strA.1_M96392	1	0	175	1996	strA	804	92	100.0	strA.l15.c30.ctg.3	725	35.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_1_M96392
+strB.1_M96392	strB.1_M96392	1	0	175	1950	strB	837	837	100.0	strB.l15.c30.ctg.1	1173	161.7	0	HET	.	.	.	C352T	.	352	352	C	682	682	C	220	C,T	126,94	.	Original name: strB_1_M96392
+strB.1_M96392	strB.1_M96392	1	0	175	1950	strB	837	114	100.0	strB.l15.c30.ctg.2	457	36.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+strB.1_M96392	strB.1_M96392	1	0	175	1950	strB	837	114	100.0	strB.l15.c30.ctg.3	727	25.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+sul2.3_HQ840942	sul2.3_HQ840942	1	0	27	1110	sul2	816	816	100.0	sul2.l15.c4.ctg.1	2041	67.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_3_HQ840942
+tet_B_.4_AF326777	tet_B_.4_AF326777	1	0	27	3098	tet_B_	1206	1206	100.0	tet_B_.l15.c4.ctg.1	2410	160.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(B)_4_AF326777

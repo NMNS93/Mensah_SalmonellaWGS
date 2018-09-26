@@ -1,0 +1,18 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aac_3__IVa.1_X01385	aac_3__IVa.1_X01385	1	0	531	470	aac_3__IVa	786	786	99.87	aac_3__IVa.l15.c4.ctg.1	1955	30.0	0	.	p	.	0	G245fs	FSHIFT	733	733	G	1337	1337	G	44	G	44	.	Original name: aac(3)-IVa_1_X01385
+aadA2.1_X68227	aadA2.1_X68227	1	0	27	1078	aadA-_1	780	780	100.0	aadA-_1.l6.c17.ctg.1	2091	64.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA2_1_X68227
+aph_3___Ic.1_X62115	aph_3___Ic.1_X62115	1	0	539	5634	aph_3___I-	816	816	98.77	aph_3___I-.l15.c4.ctg.1	2080	337.6	0	.	p	.	0	P13Q	NONSYN	37	39	CCG	597	599	CAG	547;554;556	C,G;A,C;G	546,1;552,2;556	.	Original name: aph(3')-Ic_1_X62115
+aph_3___Ic.1_X62115	aph_3___Ic.1_X62115	1	0	539	5634	aph_3___I-	816	816	98.77	aph_3___I-.l15.c4.ctg.1	2080	337.6	0	.	p	.	0	R27K	NONSYN	79	81	AGA	639	641	AAA	567;563;557	A;A,C;A,C	567;560,2;555,1	.	Original name: aph(3')-Ic_1_X62115
+aph_3___Ic.1_X62115	aph_3___Ic.1_X62115	1	0	539	5634	aph_3___I-	816	816	98.77	aph_3___I-.l15.c4.ctg.1	2080	337.6	0	.	p	.	0	N48D	NONSYN	142	144	AAT	702	704	GAT	501;508;514	G;A,C;T	501;507,1;514	.	Original name: aph(3')-Ic_1_X62115
+aph_3___Ic.1_X62115	aph_3___Ic.1_X62115	1	0	539	5634	aph_3___I-	816	816	98.77	aph_3___I-.l15.c4.ctg.1	2080	337.6	0	.	p	.	0	A77E	NONSYN	229	231	GCA	789	791	GAA	588;591;592	G;A;A	588;591;592	.	Original name: aph(3')-Ic_1_X62115
+aph_3___Ic.1_X62115	aph_3___Ic.1_X62115	1	0	539	5634	aph_3___I-	816	816	98.77	aph_3___I-.l15.c4.ctg.1	2080	337.6	0	.	p	.	0	V126A	NONSYN	376	378	GTG	936	938	GCG	599;595;598	G;C,T;G	599;594,1;598	.	Original name: aph(3')-Ic_1_X62115
+aph_4__Ia.1_V01499	aph_4__Ia.1_V01499	1	0	27	506	aph_4__Ia	1026	1026	100.0	aph_4__Ia.l15.c4.ctg.1	2108	30.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aph(4)-Ia_1_V01499
+blaCARB_2.1_M69058	blaCARB_2.1_M69058	1	0	27	1386	blaCARB_-	915	915	100.0	blaCARB_-.l6.c17.ctg.1	2088	82.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaCARB-2_1_M69058
+floR.2_AF118107	floR.2_AF118107	1	0	27	1468	floR	1215	1215	100.0	floR.l15.c17.ctg.1	2410	76.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: floR_2_AF118107
+strA.1_M96392	strA.1_M96392	1	0	27	502	strA	804	804	100.0	strA.l15.c4.ctg.1	1997	31.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_1_M96392
+strB.1_M96392	strB.1_M96392	1	0	27	476	strB	837	837	100.0	strB.l15.c4.ctg.1	2079	28.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+sul1.2_CP002151	sul1.2_CP002151	1	0	37	2032	sul-	927	614	100.0	sul-.l15.c30.ctg.1	980	160.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul1.2_CP002151	sul1.2_CP002151	1	0	37	2032	sul-	927	431	100.0	sul-.l15.c30.ctg.2	1106	52.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul1.2_CP002151	sul1.2_CP002151	1	0	37	2032	sul-	927	113	100.0	sul-.l15.c30.ctg.3	586	32.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+tet_B_.4_AF326777	tet_B_.4_AF326777	1	0	27	734	tet_B_	1206	1206	100.0	tet_B_.l15.c4.ctg.1	2540	36.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(B)_4_AF326777
+tet_G_.5_AF071555	tet_G_.5_AF071555	1	0	27	1244	tet_G_	1128	1128	100.0	tet_G_.l6.c30.ctg.1	2563	60.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(G)_5_AF071555

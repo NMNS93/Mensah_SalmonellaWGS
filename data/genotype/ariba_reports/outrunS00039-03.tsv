@@ -1,0 +1,12 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA1.3_JQ414041	aadA1.3_JQ414041	1	0	27	2468	aadA-	792	792	100.0	aadA-.l15.c4.ctg.2	1882	78.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA1_3_JQ414041
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1242	aadA-_1	792	792	100.0	aadA-_1.l15.c17.ctg.1	1879	80.3	0	HET	.	.	.	A393G	.	393	393	A	897	897	A	144	A,G	113,31	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1242	aadA-_1	792	792	100.0	aadA-_1.l15.c17.ctg.1	1879	80.3	0	HET	.	.	.	C400T,A	.	400	400	C	904	904	C	144	C,T,A	112,31,1	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1242	aadA-_1	792	792	100.0	aadA-_1.l15.c17.ctg.1	1879	80.3	0	HET	.	.	.	T405G	.	405	405	T	909	909	T	143	T,G	112,31	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1242	aadA-_1	792	792	100.0	aadA-_1.l15.c17.ctg.1	1879	80.3	0	HET	.	.	.	T377C	.	377	377	T	881	881	T	134	T,C	105,29	.	Original name: aadA2_2_JQ364967
+aadA2.2_JQ364967	aadA2.2_JQ364967	1	0	155	1242	aadA-_1	792	792	100.0	aadA-_1.l15.c17.ctg.1	1879	80.3	0	HET	.	.	.	G357A	.	357	357	G	861	861	G	134	G,A	106,28	.	Original name: aadA2_2_JQ364967
+blaTEM_1B.1_JF910132	blaTEM_1B.1_JF910132	1	0	27	1024	blaTEM_-	861	861	100.0	blaTEM_-.l15.c4.ctg.1	2040	62.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaTEM-1B_1_JF910132
+cmlA1.1_M64556	cmlA1.1_M64556	1	0	539	1480	cml-	1260	1260	99.92	cml-.l15.c4.ctg.1	2421	76.4	0	.	p	.	0	G412E	NONSYN	1234	1236	GGA	1812	1814	GAA	109;109;108	G;A;A,C	109;109;107,1	.	Original name: cmlA1_1_M64556
+dfrA12.1_AB571791	dfrA12.1_AB571791	1	0	27	886	dfrA12	498	498	100.0	dfrA12.l15.c4.ctg.1	1633	67.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: dfrA12_1_AB571791
+mef_B_.1_FJ196385	mef_B_.1_FJ196385	1	0	16	392	mef_B_	1230	260	100.0	mef_B_.l15.c4.ctg.1	1451	33.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: mef(B)_1_FJ196385
+sul3.2_AJ459418	sul3.2_AJ459418	1	0	27	1232	sul3	792	792	100.0	sul3.l15.c4.ctg.1	1958	78.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul3_2_AJ459418

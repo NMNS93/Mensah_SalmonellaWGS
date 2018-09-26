@@ -1,0 +1,5 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA1.1_X02340	aadA1.1_X02340	1	0	528	164	aadA-	972	174	95.98	aadA-.l15.c30.ctg.2	228	43.2	0	.	p	.	0	L11del	DEL	31	31	C	81	81	G	67	G	67	.	Original name: aadA1_1_X02340
+aadA1.1_X02340	aadA1.1_X02340	1	0	528	164	aadA-	972	174	95.98	aadA-.l15.c30.ctg.2	228	43.2	0	.	p	.	0	T15fs	FSHIFT	43	43	A	91	91	A	69	A,T	68,1	.	Original name: aadA1_1_X02340
+blaCARB_2.1_M69058	blaCARB_2.1_M69058	1	0	27	1794	blaCARB_-	915	915	100.0	blaCARB_-.l15.c4.ctg.1	2135	104.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaCARB-2_1_M69058
+sul1.2_CP002151	sul1.2_CP002151	1	0	27	1556	sul-	927	927	100.0	sul-.l15.c4.ctg.1	2055	94.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151

@@ -1,0 +1,16 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA1.3_JQ414041	aadA1.3_JQ414041	1	0	27	1434	aadA-	792	792	100.0	aadA-.l15.c4.ctg.2	1875	43.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA1_3_JQ414041
+aadA2.1_X68227	aadA2.1_X68227	1	0	655	778	aadA-_1	780	780	100.0	aadA-_1.l15.c4.ctg.1	2186	42.8	0	HET	.	.	.	T365C	.	365	365	T	1060	1060	T	87	T,C	69,18	.	Original name: aadA2_1_X68227
+aadA2.1_X68227	aadA2.1_X68227	1	0	655	778	aadA-_1	780	780	100.0	aadA-_1.l15.c4.ctg.1	2186	42.8	0	HET	.	.	.	G345A	.	345	345	G	1040	1040	G	89	G,A	73,16	.	Original name: aadA2_1_X68227
+aadA2.1_X68227	aadA2.1_X68227	1	0	655	778	aadA-_1	780	780	100.0	aadA-_1.l15.c4.ctg.1	2186	42.8	0	HET	.	.	.	A381G	.	381	381	A	1076	1076	A	81	A,G	64,17	.	Original name: aadA2_1_X68227
+aadA2.1_X68227	aadA2.1_X68227	1	0	655	778	aadA-_1	780	780	100.0	aadA-_1.l15.c4.ctg.1	2186	42.8	0	HET	.	.	.	C388T	.	388	388	C	1083	1083	C	79	C,T	62,17	.	Original name: aadA2_1_X68227
+aadA2.1_X68227	aadA2.1_X68227	1	0	655	778	aadA-_1	780	780	100.0	aadA-_1.l15.c4.ctg.1	2186	42.8	0	HET	.	.	.	T393G	.	393	393	T	1088	1088	T	84	T,G	67,17	.	Original name: aadA2_1_X68227
+aadA2.1_X68227	aadA2.1_X68227	1	0	655	778	aadA-_1	780	319	94.04	aadA-_1.l15.c4.ctg.4	319	4.5	0	.	p	.	0	M122T	NONSYN	364	366	ATG	106	108	ACG	6;6;6	A;C;G	6;6;6	.	Original name: aadA2_1_X68227
+aadA2.1_X68227	aadA2.1_X68227	1	0	655	778	aadA-_1	780	319	94.04	aadA-_1.l15.c4.ctg.4	319	4.5	0	.	p	.	0	F149L	NONSYN	445	447	TTC	187	189	CTC	1;1;1	C;T;C	1;1;1	.	Original name: aadA2_1_X68227
+aadA2.1_X68227	aadA2.1_X68227	1	0	655	778	aadA-_1	780	319	94.04	aadA-_1.l15.c4.ctg.4	319	4.5	0	.	p	.	0	R163N	NONSYN	487	489	AGG	229	231	AAT	5;5;5	A;A;T	5;5;5	.	Original name: aadA2_1_X68227
+aadA2.1_X68227	aadA2.1_X68227	1	0	655	778	aadA-_1	780	319	94.04	aadA-_1.l15.c4.ctg.4	319	4.5	0	.	p	.	0	K167T	NONSYN	499	501	AAG	241	243	ACG	5;5;5	A;C;G	5;5;5	.	Original name: aadA2_1_X68227
+aadA2.1_X68227	aadA2.1_X68227	1	0	655	778	aadA-_1	780	319	94.04	aadA-_1.l15.c4.ctg.4	319	4.5	0	.	p	.	0	Q172P	NONSYN	514	516	CAG	256	258	CCG	5;5;5	C;C;G	5;5;5	.	Original name: aadA2_1_X68227
+cmlA1.1_M64556	cmlA1.1_M64556	1	0	539	892	cml-	1260	1260	99.92	cml-.l6.c30.ctg.1	2360	47.2	0	.	p	.	0	G412E	NONSYN	1234	1236	GGA	1775	1777	GAA	64;64;64	G;A;A	64;64;64	.	Original name: cmlA1_1_M64556
+mef_B_.1_FJ196385	mef_B_.1_FJ196385	1	0	16	238	mef_B_	1230	260	100.0	mef_B_.l6.c4.ctg.1	1313	22.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: mef(B)_1_FJ196385
+sul3.2_AJ459418	sul3.2_AJ459418	1	0	27	684	sul3	792	792	100.0	sul3.l15.c30.ctg.1	2231	38.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul3_2_AJ459418
+tet_C_.9_AY046276	tet_C_.9_AY046276	1	0	27	768	tet_C_	1176	1176	100.0	tet_C_.l6.c4.ctg.1	2351	40.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(C)_9_AY046276

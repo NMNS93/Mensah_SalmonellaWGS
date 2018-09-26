@@ -1,0 +1,12 @@
+antimicrobial,code,mic,source,comment
+ampicillin,AMP,8,http://www.eucast.org/mic_distributions_and_ecoffs/,
+chloramphenicol,CHL,16,http://www.eucast.org/mic_distributions_and_ecoffs/,
+ciprofloxacin,CIP,0.064,http://www.eucast.org/mic_distributions_and_ecoffs/,
+gentamicin,GEN,2,http://www.eucast.org/mic_distributions_and_ecoffs/,
+nalidixic acid,NAL,16,http://www.eucast.org/mic_distributions_and_ecoffs/,
+streptomycin,STR,16,http://www.eucast.org/mic_distributions_and_ecoffs/,
+sulfamethoxazole,SMX,256,http://aac.asm.org/content/61/3/e02140-16.full,"Same mechanism as sulfisoxasole, therefore same rationale using Tyson2016 evidence."
+trimethroprim_sulfamethoxazole,SXT,1,http://www.eucast.org/mic_distributions_and_ecoffs/,
+sulfisoxasole,SUL,256,http://aac.asm.org/content/61/3/e02140-16.full,"ND by EUCAST and CLSI. Adopted 256 from Tyson 2016, found that all but one isolate with sul resistance mechanisms above this MIC for sulfisoxasole"
+tetracycline,TET,8,http://www.eucast.org/mic_distributions_and_ecoffs/,
+trimethroprim,TRI,2,http://www.eucast.org/mic_distributions_and_ecoffs/,

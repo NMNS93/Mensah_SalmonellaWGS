@@ -1,0 +1,2 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+tet_B_.4_AF326777	tet_B_.4_AF326777	1	0	27	1812	tet_B_	1206	1206	100.0	tet_B_.l15.c4.ctg.1	2474	91.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(B)_4_AF326777

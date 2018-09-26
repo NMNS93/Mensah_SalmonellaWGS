@@ -1,0 +1,6 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+QnrB19.1_HM146784	QnrB19.1_HM146784	1	0	27	17916	QnrB-	645	645	100.0	QnrB-.l15.c30.ctg.1	1804	1238.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: QnrB19_1_HM146784
+strA.4_AF321551	strA.4_AF321551	1	0	27	7858	strA	804	804	100.0	strA.l6.c4.ctg.1	2046	479.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_4_AF321551
+strB.1_M96392	strB.1_M96392	1	0	27	7662	strB	837	837	100.0	strB.l15.c4.ctg.1	2030	470.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+sul2.2_GQ421466	sul2.2_GQ421466	1	0	27	8336	sul2	816	816	100.0	sul2.l15.c4.ctg.1	2006	518.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_2_GQ421466
+tet_A_.4_AJ517790	tet_A_.4_AJ517790	1	0	539	9432	tet_A_	1200	1200	99.92	tet_A_.l15.c4.ctg.1	2367	497.4	0	.	p	.	0	T42A	NONSYN	124	126	ACC	691	693	GCC	640;637;636	G,A;C,A;C	639,1;635,2;636	.	Original name: tet(A)_4_AJ517790

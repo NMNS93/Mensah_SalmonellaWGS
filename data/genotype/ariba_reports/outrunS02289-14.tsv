@@ -1,0 +1,11 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA1.5_JX185132	aadA1.5_JX185132	1	0	27	862	aadA-	792	792	100.0	aadA-.l15.c17.ctg.1	2244	46.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA1_5_JX185132
+blaTEM_1B.1_JF910132	blaTEM_1B.1_JF910132	1	0	27	1330	blaTEM_-	861	861	100.0	blaTEM_-.l15.c4.ctg.1	2097	79.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaTEM-1B_1_JF910132
+dfrA1.30_JQ690541	dfrA1.30_JQ690541	1	0	27	608	dfrA1	474	474	100.0	dfrA1.l15.c4.ctg.1	1746	43.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: dfrA1_30_JQ690541
+strA.4_AF321551	strA.4_AF321551	1	0	175	1756	strA	804	89	100.0	strA.l15.c30.ctg.1	604	35.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_4_AF321551
+strA.4_AF321551	strA.4_AF321551	1	0	175	1756	strA	804	804	100.0	strA.l15.c30.ctg.2	1187	142.1	0	HET	.	.	.	C204G	.	204	204	C	236	236	C	160	C,G	92,68	.	Original name: strA_4_AF321551
+strA.4_AF321551	strA.4_AF321551	1	0	175	1756	strA	804	87	100.0	strA.l15.c30.ctg.3	534	24.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_4_AF321551
+strB.1_M96392	strB.1_M96392	1	0	27	1870	strB	837	837	100.0	strB.l6.c30.ctg.1	2022	108.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+sul1.2_CP002151	sul1.2_CP002151	1	0	27	738	sul-	927	927	100.0	sul-.l15.c4.ctg.1	2175	42.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul2.3_HQ840942	sul2.3_HQ840942	1	0	27	1156	sul2	816	816	100.0	sul2.l15.c4.ctg.1	2169	66.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_3_HQ840942
+tet_B_.4_AF326777	tet_B_.4_AF326777	1	0	155	2918	tet_B_	1206	1206	100.0	tet_B_.l6.c30.ctg.1	2120	168.0	0	HET	.	.	.	G511A	.	511	511	G	943	943	G	230	G,A	160,70	.	Original name: tet(B)_4_AF326777

@@ -1,0 +1,8 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA2.1_X68227	aadA2.1_X68227	1	0	27	844	aadA-_1	780	780	100.0	aadA-_1.l15.c4.ctg.1	2052	51.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA2_1_X68227
+blaCARB_2.1_M69058	blaCARB_2.1_M69058	1	0	27	920	blaCARB_-	915	915	100.0	blaCARB_-.l15.c4.ctg.1	2050	56.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaCARB-2_1_M69058
+floR.2_AF118107	floR.2_AF118107	1	0	27	998	floR	1215	1215	100.0	floR.l15.c4.ctg.1	2269	54.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: floR_2_AF118107
+sul1.3_EU855787	sul1.3_EU855787	1	0	549	1306	sul-	927	611	100.0	sul-.l15.c30.ctg.1	1202	84.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_3_EU855787
+sul1.3_EU855787	sul1.3_EU855787	1	0	549	1306	sul-	927	432	99.77	sul-.l15.c30.ctg.2	883	49.1	0	.	p	.	0	L205M	NONSYN	613	615	TTG	118	120	ATG	51;51;51	A,G;T;G	50,1;51;51	.	Original name: sul1_3_EU855787
+sul1.3_EU855787	sul1.3_EU855787	1	0	549	1306	sul-	927	118	99.15	sul-.l15.c30.ctg.3	616	14.8	0	.	p	.	0	L205M	NONSYN	613	615	TTG	115	117	ATG	7;5;5	A;T;G	5;5;5	.	Original name: sul1_3_EU855787
+tet_G_.5_AF071555	tet_G_.5_AF071555	1	0	27	882	tet_G_	1128	1128	100.0	tet_G_.l6.c4.ctg.1	2349	46.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(G)_5_AF071555

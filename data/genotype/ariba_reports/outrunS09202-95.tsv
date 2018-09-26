@@ -1,0 +1,7 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aadA2.1_X68227	aadA2.1_X68227	1	0	27	1402	aadA-_1	780	780	100.0	aadA-_1.l15.c4.ctg.1	2148	81.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA2_1_X68227
+dfrA14.1_DQ388123	dfrA14.1_DQ388123	1	0	539	2062	dfrA14	483	483	99.79	dfrA14.l15.c4.ctg.1	1667	154.3	0	.	p	.	0	S25P	NONSYN	73	75	TCC	670	672	CCC	256;258;256	C;C;C	256;258;256	.	Original name: dfrA14_1_DQ388123
+strA.4_AF321551	strA.4_AF321551	1	0	17	3036	strA	804	804	100.0	strA.l15.c4.ctg.1	2560	147.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_4_AF321551
+strB.1_M96392	strB.1_M96392	1	0	27	2714	strB	837	837	100.0	strB.l15.c4.ctg.1	2098	161.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+sul1.2_CP002151	sul1.2_CP002151	1	0	27	1368	sul-	927	927	100.0	sul-.l15.c4.ctg.1	2075	82.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_2_CP002151
+sul2.2_GQ421466	sul2.2_GQ421466	1	0	27	2866	sul2	816	816	100.0	sul2.l15.c4.ctg.1	1999	178.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_2_GQ421466

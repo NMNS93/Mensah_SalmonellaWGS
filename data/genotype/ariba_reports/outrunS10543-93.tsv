@@ -1,0 +1,12 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+aac_3__IVa.1_X01385	aac_3__IVa.1_X01385	1	0	531	362	aac_3__IVa	786	786	99.87	aac_3__IVa.l15.c4.ctg.1	1912	23.5	0	.	p	.	0	G245fs	FSHIFT	733	733	G	1351	1351	G	42	G	42	.	Original name: aac(3)-IVa_1_X01385
+aadA1.3_JQ414041	aadA1.3_JQ414041	1	0	27	1198	aadA-	792	792	100.0	aadA-.l15.c17.ctg.1	2098	69.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aadA1_3_JQ414041
+aph_4__Ia.1_V01499	aph_4__Ia.1_V01499	1	0	27	428	aph_4__Ia	1026	1026	100.0	aph_4__Ia.l15.c30.ctg.1	2086	25.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aph(4)-Ia_1_V01499
+blaTEM_81.1_AF427127	blaTEM_81.1_AF427127	1	0	571	6124	blaTEM_-	861	861	99.88	blaTEM_-.l15.c30.ctg.1	1330	489.8	0	.	p	.	0	V125I	NONSYN	373	375	GTA	695	697	ATA	669;670;666	A,C;T,G;A,G	668,1;669,1;665,1	.	Original name: blaTEM-81_1_AF427127
+catA1.1_V00622	catA1.1_V00622	1	0	27	502	catA1	660	660	99.85	catA1.l6.c4.ctg.1	1860	33.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: catA1_1_V00622
+dfrA14.1_DQ388123	dfrA14.1_DQ388123	1	0	539	750	dfrA14	483	483	99.79	dfrA14.l15.c4.ctg.1	1732	54.0	0	.	p	.	0	S25P	NONSYN	73	75	TCC	718	720	CCC	82;85;86	C,A;C,A;C	81,1;84,1;86	.	Original name: dfrA14_1_DQ388123
+strA.4_AF321551	strA.4_AF321551	1	0	27	312	strA	804	804	100.0	strA.l15.c4.ctg.1	1959	19.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strA_4_AF321551
+strB.1_M96392	strB.1_M96392	1	0	27	376	strB	837	837	100.0	strB.l15.c4.ctg.1	1884	24.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: strB_1_M96392
+sul1.1_AY224185	sul1.1_AY224185	1	0	27	1024	sul-	840	840	100.0	sul-.l15.c4.ctg.1	2154	59.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_1_AY224185
+sul2.2_GQ421466	sul2.2_GQ421466	1	0	27	3682	sul2	816	816	100.0	sul2.l6.c4.ctg.1	2093	219.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_2_GQ421466
+tet_B_.4_AF326777	tet_B_.4_AF326777	1	0	27	756	tet_B_	1206	1206	100.0	tet_B_.l15.c4.ctg.1	2282	41.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(B)_4_AF326777

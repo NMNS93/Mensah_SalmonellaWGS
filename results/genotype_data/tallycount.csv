@@ -1,0 +1,43 @@
+"","gene","count"
+"1","aadA",60
+"2","aadA._1.match",55
+"3","aadA..match",20
+"4","aph_3",5
+"5","aph_3___I..match",5
+"6","aph_4",4
+"7","aph_4__Ia.match",4
+"8","blaCARB",32
+"9","blaCARB_..match",32
+"10","blaTEM",26
+"11","blaTEM_..match",26
+"12","cat",2
+"13","catA1.match",2
+"14","cml",16
+"15","cml..match",16
+"16","dfrA",32
+"17","dfrA12.match",17
+"18","dfrA14.match",11
+"19","dfrA1.match",4
+"20","floR",31
+"21","floR.match",31
+"22","gyrA",22
+"23","gyrA (D87N)",9
+"24","gyrA (D87Y)",2
+"25","gyrA (S83F)",10
+"26","gyrA (S83Y)",1
+"27","mph_B",1
+"28","mph_B_.match",1
+"29","qnrb",1
+"30","QnrB..match",1
+"31","str_AB",20
+"32","strA.match",20
+"33","strB.match",30
+"34","sul",47
+"35","sul2.match",29
+"36","sul3.match",16
+"37","sul..match",15
+"38","tet",62
+"39","tet_A_.match",15
+"40","tet_B_.match",14
+"41","tet_C_.match",4
+"42","tet_G_.match",31
