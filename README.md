@@ -17,6 +17,7 @@ This research benchmarks WGS antimicrobial resistance predictions, using ARIBA a
 |files/|Files containing parameters passed to scripts e.g. breakpoints, genotype-conversions|
 |results/|Outputs from analysis scripts|
 |scripts/|Analysis scripts|
+|plots/|Plots generated for figures|
 
 ## Analysis
 
@@ -46,4 +47,4 @@ make: *** [output] Error 1
 
 ## Outputs
 
-All outputs of this analysis can be found in the 'results/' directory.
+All outputs of this analysis can be found in the 'results/' and 'plots/' directories.

@@ -1,6 +1,6 @@
 # Install required packages
-# install.packages('pacman')
-pacman::p_load(tidyverse, tibble, stringr, bdpv)
+install.packages('pacman')
+pacman::p_load(tidyverse, tibble, stringr, bdpv, scales)
 
 # Verify required directories structure for all script outputs
 directories = c("data/clean", "results/", "results/stats", "results/dataframes", "results/tables")
