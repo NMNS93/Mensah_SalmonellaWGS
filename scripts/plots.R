@@ -18,7 +18,7 @@ df_groups$new <- factor(df_groups$new)
 out_plot = ggplot(df_groups, aes(x=reorder(ref, desc(ref)), y=yes_counts, fill=new)) + 
   geom_bar(stat='identity') + 
   theme(axis.text.y=element_text(size=8), legend.key.size=unit(0.5,"line")) +  # Edit element sizes
-  labs(x="Reference sequence", y="Frequency (n=102)", fill="Gene") + 
+  labs(x="Reference sequence assembled by ARIBA", y="Frequency of isolates (n=102)", fill="Gene") + 
   theme(panel.grid.minor = element_line(colour="white")) +
   ylim(0,40)  + coord_flip() # + geom_text(aes(label=yes_counts), size=3)
 
