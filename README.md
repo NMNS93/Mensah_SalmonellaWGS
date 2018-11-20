@@ -48,3 +48,5 @@ make: *** [output] Error 1
 ## Outputs
 
 All outputs of this analysis can be found in the 'results/' and 'plots/' directories.
+
+** Tested with R version 3.5.1 and RStudio 1.1.463 **

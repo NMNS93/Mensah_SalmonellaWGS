@@ -1,6 +1,6 @@
 # Install required packages
-install.packages('pacman')
-pacman::p_load(tidyverse, tibble, stringr, bdpv, scales)
+#install.packages('pacman')
+pacman::p_load(tidyr, tibble, stringr, bdpv, scales, ggplot2)
 
 # Verify required directories structure for all script outputs
 directories = c("data/clean", "results/", "results/stats", "results/dataframes", "results/tables")
@@ -233,3 +233,12 @@ phenotype_symbol = function(df){
   return(output_symbol_df)
 }
 
+# Merge values from bdpv outputs
+merger = function(main,low,up){
+  mainr = round(main,2)
+  lowr = round(low,2)
+  upr = round(up,2)
+  output = as.character(c(mainr," (",lowr,"-",upr,")"))
+  #return(paste(output,sep='',collapse=''))
+  return(paste(mainr,' (',lowr, '-', upr,')',sep=''))
+}
