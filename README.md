@@ -5,6 +5,8 @@
 
 This research benchmarks WGS antimicrobial resistance predictions, using ARIBA and the Resfinder database (v.3), with the gold standard broth microdilution method. Additionally, WGS predictions were evaluated in tandem with legacy methods (disk diffusion, agar dilution) that are routinely used due to their utility for AMR surveillance and clinical diagnostics.
 
+<img src="plots/figure1.png">
+
 ## Directories
 
 |Directory|Description|
