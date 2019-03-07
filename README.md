@@ -3,8 +3,6 @@
 
 **Nana Mensah - 1st July 2018**
 
-This repository contains analysis scripts for the publication "Mensah et al., 2018. Determining antimicrobial resistance in Salmonella typhimurium by Whole Genome Sequencing: A comparison against multiple phenotypic susceptibility testing methods".
-
 This research benchmarks WGS antimicrobial resistance predictions, using ARIBA and the Resfinder database (v.3), with the gold standard broth microdilution method. Additionally, WGS predictions were evaluated in tandem with legacy methods (disk diffusion, agar dilution) that are routinely used due to their utility for AMR surveillance and clinical diagnostics.
 
 ## Directories
